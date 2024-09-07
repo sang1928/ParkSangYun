@@ -4,7 +4,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class UIStartPage : MonoBehaviour
+public class UIStartPage : UIBase
 {
     private Canvas _canvas;
 
